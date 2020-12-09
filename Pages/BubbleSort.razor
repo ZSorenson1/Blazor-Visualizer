@@ -1,0 +1,45 @@
+﻿@page "/bubblesort"
+
+<h1>Bubble Sort</h1>
+
+
+
+<div @onclick="BubbleSort">
+@{
+    foreach(int i in graph){
+        
+        <p class="array-bar"  >@i</p>
+    }
+}
+</div>
+
+@code {
+    private int currentCount = 0;
+    private int[] graph = GraphCreator();
+    
+
+    private static int[] GraphCreator()
+    {
+        Random rand = new Random();
+        int[] output = new int[10];
+        for(int i=0; i<output.Length; i++){
+            output[i] = rand.Next(5, 1000);
+        }
+        return output;
+    }
+
+    private void BubbleSort(){
+        int temp;
+        int n = graph.Length;
+        for(int i = 0; i<n-1; i++){
+            if(graph[i] > graph[i+1]){
+                temp = graph[i];
+                graph[i] = graph[i+1];
+                graph[i+1] = temp;
+                i=-1;
+            }
+        }
+        
+    }
+    
+}
