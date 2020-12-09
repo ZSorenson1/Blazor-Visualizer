@@ -2,22 +2,33 @@
 
 <h1>Bubble Sort</h1>
 
+<Styled @bind-Classname="@arrayBar">
+    background-color: red;
+    width: 32px;
+    margin-left: 5px;
+</Styled>
 
 
-<div @onclick="BubbleSort">
+<div @onclick="Sort" class="d-flex flex-row">
 @{
+    
     foreach(int i in graph){
-        
-        <p class="array-bar"  >@i</p>
+        barHeight = i.ToString()+"px";
+        <Styled @bind-Classname="@poop">
+        height: @barHeight;
+        </Styled>
+        <p class="@arrayBar @poop d-inline-block">@i</p>
     }
 }
 </div>
 
+
 @code {
-    private int currentCount = 0;
     private int[] graph = GraphCreator();
     
-
+    private string barHeight;
+    private string poop;
+    private string arrayBar;
     private static int[] GraphCreator()
     {
         Random rand = new Random();
@@ -28,7 +39,7 @@
         return output;
     }
 
-    private void BubbleSort(){
+    private void Sort(){
         int temp;
         int n = graph.Length;
         for(int i = 0; i<n-1; i++){

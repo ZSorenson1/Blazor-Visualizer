@@ -5,4 +5,8 @@
     <RootNamespace>Blazor_Visualizer</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="BlazorStyled" Version="3.1.0" />
+  </ItemGroup>
+
 </Project>

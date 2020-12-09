@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Blazor_Visualizer.Data;
+using BlazorStyled;
 
 namespace Blazor_Visualizer
 {
@@ -28,6 +29,7 @@ namespace Blazor_Visualizer
         {
             services.AddRazorPages();
             services.AddServerSideBlazor();
+            services.AddBlazorStyled();
             services.AddSingleton<WeatherForecastService>();
         }
 
