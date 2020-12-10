@@ -430,9 +430,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zach\\Desktop\\Projects\\Blazor-Visualizer\\Blazor-Visualizer.csproj",
-      "projectName": "Blazor-Visualizer",
-      "projectPath": "C:\\Users\\Zach\\Desktop\\Projects\\Blazor-Visualizer\\Blazor-Visualizer.csproj",
+      "projectUniqueName": "C:\\Users\\Zach\\Desktop\\Projects\\Blazor-Visualizer\\Blazor_Visualizer.csproj",
+      "projectName": "Blazor_Visualizer",
+      "projectPath": "C:\\Users\\Zach\\Desktop\\Projects\\Blazor-Visualizer\\Blazor_Visualizer.csproj",
       "packagesPath": "C:\\Users\\Zach\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Zach\\Desktop\\Projects\\Blazor-Visualizer\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,24 @@
+﻿@inherits SortingComponentBase
+
+
+<Styled @bind-Classname="@arrayBar">
+    background-color: red;
+    width: 32px;
+    margin-left: 5px;
+</Styled>
+
+
+<div @onclick="RunSort" class="d-flex flex-row">
+@{
+    
+    foreach(int i in arr){
+        string heightValue = i.ToString() + "px";
+        <p class="@arrayBar" style="height: @heightValue">@i</p>
+    }
+}
+</div>
+
+
+@code {
+    private string arrayBar;
+}

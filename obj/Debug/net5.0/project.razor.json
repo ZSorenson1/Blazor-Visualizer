@@ -12,220 +12,35 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1616015859,
+        "HashCode": -519685364,
         "Kind": "Components.Component",
-        "Name": "Blazor_Visualizer.Pages.Counter",
+        "Name": "Blazor_Visualizer.Shared.SortingComponentBase",
         "AssemblyName": "Blazor-Visualizer",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "SortingComponentBase"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_Visualizer.Pages.Counter"
+          "Common.TypeName": "Blazor_Visualizer.Shared.SortingComponentBase"
         }
       },
       {
-        "HashCode": -1332092142,
+        "HashCode": -351394512,
         "Kind": "Components.Component",
-        "Name": "Blazor_Visualizer.Pages.Counter",
+        "Name": "Blazor_Visualizer.Shared.SortingComponentBase",
         "AssemblyName": "Blazor-Visualizer",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Blazor_Visualizer.Pages.Counter"
+            "TagName": "Blazor_Visualizer.Shared.SortingComponentBase"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_Visualizer.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -540500464,
-        "Kind": "Components.Component",
-        "Name": "Blazor_Visualizer.Pages.FetchData",
-        "AssemblyName": "Blazor-Visualizer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_Visualizer.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 1831960312,
-        "Kind": "Components.Component",
-        "Name": "Blazor_Visualizer.Pages.FetchData",
-        "AssemblyName": "Blazor-Visualizer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazor_Visualizer.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_Visualizer.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1775484511,
-        "Kind": "Components.Component",
-        "Name": "Blazor_Visualizer.Pages.Index",
-        "AssemblyName": "Blazor-Visualizer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_Visualizer.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1859400813,
-        "Kind": "Components.Component",
-        "Name": "Blazor_Visualizer.Pages.Index",
-        "AssemblyName": "Blazor-Visualizer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazor_Visualizer.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_Visualizer.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1124345757,
-        "Kind": "Components.Component",
-        "Name": "Blazor_Visualizer.Pages.BubbleSort",
-        "AssemblyName": "Blazor-Visualizer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BubbleSort"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_Visualizer.Pages.BubbleSort"
-        }
-      },
-      {
-        "HashCode": -1291981225,
-        "Kind": "Components.Component",
-        "Name": "Blazor_Visualizer.Pages.BubbleSort",
-        "AssemblyName": "Blazor-Visualizer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazor_Visualizer.Pages.BubbleSort"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_Visualizer.Pages.BubbleSort",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1616773851,
-        "Kind": "Components.Component",
-        "Name": "Blazor_Visualizer.Shared.SurveyPrompt",
-        "AssemblyName": "Blazor-Visualizer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_Visualizer.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": 62168023,
-        "Kind": "Components.Component",
-        "Name": "Blazor_Visualizer.Shared.SurveyPrompt",
-        "AssemblyName": "Blazor-Visualizer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazor_Visualizer.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_Visualizer.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1473005004,
-        "Kind": "Components.Component",
-        "Name": "Blazor_Visualizer.Shared.NavMenu",
-        "AssemblyName": "Blazor-Visualizer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_Visualizer.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -689297455,
-        "Kind": "Components.Component",
-        "Name": "Blazor_Visualizer.Shared.NavMenu",
-        "AssemblyName": "Blazor-Visualizer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Blazor_Visualizer.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazor_Visualizer.Shared.NavMenu",
+          "Common.TypeName": "Blazor_Visualizer.Shared.SortingComponentBase",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -326,6 +141,72 @@
         }
       },
       {
+        "HashCode": 428777241,
+        "Kind": "Components.Component",
+        "Name": "Blazor_Visualizer.Shared.SortingComponent",
+        "AssemblyName": "Blazor-Visualizer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SortingComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor_Visualizer.Shared.SortingComponent"
+        }
+      },
+      {
+        "HashCode": -1631867528,
+        "Kind": "Components.Component",
+        "Name": "Blazor_Visualizer.Shared.SortingComponent",
+        "AssemblyName": "Blazor-Visualizer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazor_Visualizer.Shared.SortingComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor_Visualizer.Shared.SortingComponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 539675598,
+        "Kind": "Components.Component",
+        "Name": "Blazor_Visualizer.Shared.NavBar",
+        "AssemblyName": "Blazor-Visualizer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavBar"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor_Visualizer.Shared.NavBar"
+        }
+      },
+      {
+        "HashCode": -1123286532,
+        "Kind": "Components.Component",
+        "Name": "Blazor_Visualizer.Shared.NavBar",
+        "AssemblyName": "Blazor-Visualizer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazor_Visualizer.Shared.NavBar"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor_Visualizer.Shared.NavBar",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1952647108,
         "Kind": "Components.Component",
         "Name": "Blazor_Visualizer.App",
@@ -355,6 +236,415 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Blazor_Visualizer.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1775484511,
+        "Kind": "Components.Component",
+        "Name": "Blazor_Visualizer.Pages.Index",
+        "AssemblyName": "Blazor-Visualizer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor_Visualizer.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1859400813,
+        "Kind": "Components.Component",
+        "Name": "Blazor_Visualizer.Pages.Index",
+        "AssemblyName": "Blazor-Visualizer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazor_Visualizer.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor_Visualizer.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1655701000,
+        "Kind": "Components.Component",
+        "Name": "BlazorStyled.Styled",
+        "AssemblyName": "BlazorStyled",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Styled"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Priority",
+            "TypeName": "System.Int32?",
+            "Metadata": {
+              "Common.PropertyName": "Priority"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Classname",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Classname"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "MediaQuery",
+            "TypeName": "BlazorStyled.MediaQueries",
+            "IsEnum": true,
+            "Metadata": {
+              "Common.PropertyName": "MediaQuery"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "IsKeyframes",
+            "TypeName": "System.Boolean",
+            "Metadata": {
+              "Common.PropertyName": "IsKeyframes"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "PseudoClass",
+            "TypeName": "BlazorStyled.PseudoClasses",
+            "IsEnum": true,
+            "Metadata": {
+              "Common.PropertyName": "PseudoClass"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ClassnameChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "Metadata": {
+              "Common.PropertyName": "ClassnameChanged",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "GlobalStyle",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "GlobalStyle"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ComposeAttributes",
+            "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Metadata": {
+              "Common.PropertyName": "ComposeAttributes"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorStyled.Styled"
+        }
+      },
+      {
+        "HashCode": 1782448379,
+        "Kind": "Components.Component",
+        "Name": "BlazorStyled.Styled",
+        "AssemblyName": "BlazorStyled",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorStyled.Styled"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Priority",
+            "TypeName": "System.Int32?",
+            "Metadata": {
+              "Common.PropertyName": "Priority"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Classname",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Classname"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "MediaQuery",
+            "TypeName": "BlazorStyled.MediaQueries",
+            "IsEnum": true,
+            "Metadata": {
+              "Common.PropertyName": "MediaQuery"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "IsKeyframes",
+            "TypeName": "System.Boolean",
+            "Metadata": {
+              "Common.PropertyName": "IsKeyframes"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "PseudoClass",
+            "TypeName": "BlazorStyled.PseudoClasses",
+            "IsEnum": true,
+            "Metadata": {
+              "Common.PropertyName": "PseudoClass"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ClassnameChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "Metadata": {
+              "Common.PropertyName": "ClassnameChanged",
+              "Components.EventCallback": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "GlobalStyle",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "GlobalStyle"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ComposeAttributes",
+            "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Metadata": {
+              "Common.PropertyName": "ComposeAttributes"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorStyled.Styled",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 121756863,
+        "Kind": "Components.ChildContent",
+        "Name": "BlazorStyled.Styled.ChildContent",
+        "AssemblyName": "BlazorStyled",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "Styled"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "BlazorStyled.Styled.ChildContent",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -1985860116,
+        "Kind": "Components.ChildContent",
+        "Name": "BlazorStyled.Styled.ChildContent",
+        "AssemblyName": "BlazorStyled",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "BlazorStyled.Styled"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "BlazorStyled.Styled.ChildContent",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1346419545,
+        "Kind": "Components.Component",
+        "Name": "BlazorStyled.StyledGoogleFont",
+        "AssemblyName": "BlazorStyled",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "StyledGoogleFont"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Priority",
+            "TypeName": "System.Int32?",
+            "Metadata": {
+              "Common.PropertyName": "Priority"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Name",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Name"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Styles",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Styles"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorStyled.StyledGoogleFont"
+        }
+      },
+      {
+        "HashCode": 1996876477,
+        "Kind": "Components.Component",
+        "Name": "BlazorStyled.StyledGoogleFont",
+        "AssemblyName": "BlazorStyled",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorStyled.StyledGoogleFont"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Priority",
+            "TypeName": "System.Int32?",
+            "Metadata": {
+              "Common.PropertyName": "Priority"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Name",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Name"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Styles",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Styles"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorStyled.StyledGoogleFont",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 840898608,
+        "Kind": "Components.Component",
+        "Name": "BlazorStyled._imports",
+        "AssemblyName": "BlazorStyled",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "_imports"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorStyled._imports"
+        }
+      },
+      {
+        "HashCode": -480932954,
+        "Kind": "Components.Component",
+        "Name": "BlazorStyled._imports",
+        "AssemblyName": "BlazorStyled",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorStyled._imports"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorStyled._imports",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -4236,382 +4526,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1655701000,
-        "Kind": "Components.Component",
-        "Name": "BlazorStyled.Styled",
-        "AssemblyName": "BlazorStyled",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Styled"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ChildContent",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ChildContent",
-              "Components.ChildContent": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Priority",
-            "TypeName": "System.Int32?",
-            "Metadata": {
-              "Common.PropertyName": "Priority"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Classname",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Classname"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "MediaQuery",
-            "TypeName": "BlazorStyled.MediaQueries",
-            "IsEnum": true,
-            "Metadata": {
-              "Common.PropertyName": "MediaQuery"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "IsKeyframes",
-            "TypeName": "System.Boolean",
-            "Metadata": {
-              "Common.PropertyName": "IsKeyframes"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "PseudoClass",
-            "TypeName": "BlazorStyled.PseudoClasses",
-            "IsEnum": true,
-            "Metadata": {
-              "Common.PropertyName": "PseudoClass"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "ClassnameChanged",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
-            "Metadata": {
-              "Common.PropertyName": "ClassnameChanged",
-              "Components.EventCallback": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "GlobalStyle",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "GlobalStyle"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "ComposeAttributes",
-            "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
-            "Metadata": {
-              "Common.PropertyName": "ComposeAttributes"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorStyled.Styled"
-        }
-      },
-      {
-        "HashCode": 1782448379,
-        "Kind": "Components.Component",
-        "Name": "BlazorStyled.Styled",
-        "AssemblyName": "BlazorStyled",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorStyled.Styled"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ChildContent",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Metadata": {
-              "Common.PropertyName": "ChildContent",
-              "Components.ChildContent": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Priority",
-            "TypeName": "System.Int32?",
-            "Metadata": {
-              "Common.PropertyName": "Priority"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Classname",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Classname"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "MediaQuery",
-            "TypeName": "BlazorStyled.MediaQueries",
-            "IsEnum": true,
-            "Metadata": {
-              "Common.PropertyName": "MediaQuery"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "IsKeyframes",
-            "TypeName": "System.Boolean",
-            "Metadata": {
-              "Common.PropertyName": "IsKeyframes"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "PseudoClass",
-            "TypeName": "BlazorStyled.PseudoClasses",
-            "IsEnum": true,
-            "Metadata": {
-              "Common.PropertyName": "PseudoClass"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "ClassnameChanged",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
-            "Metadata": {
-              "Common.PropertyName": "ClassnameChanged",
-              "Components.EventCallback": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "GlobalStyle",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "GlobalStyle"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "ComposeAttributes",
-            "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
-            "Metadata": {
-              "Common.PropertyName": "ComposeAttributes"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorStyled.Styled",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 121756863,
-        "Kind": "Components.ChildContent",
-        "Name": "BlazorStyled.Styled.ChildContent",
-        "AssemblyName": "BlazorStyled",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChildContent",
-            "ParentTag": "Styled"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "BlazorStyled.Styled.ChildContent",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": -1985860116,
-        "Kind": "Components.ChildContent",
-        "Name": "BlazorStyled.Styled.ChildContent",
-        "AssemblyName": "BlazorStyled",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ChildContent",
-            "ParentTag": "BlazorStyled.Styled"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "BlazorStyled.Styled.ChildContent",
-          "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1346419545,
-        "Kind": "Components.Component",
-        "Name": "BlazorStyled.StyledGoogleFont",
-        "AssemblyName": "BlazorStyled",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "StyledGoogleFont"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Priority",
-            "TypeName": "System.Int32?",
-            "Metadata": {
-              "Common.PropertyName": "Priority"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Name",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Name"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Styles",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Styles"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorStyled.StyledGoogleFont"
-        }
-      },
-      {
-        "HashCode": 1996876477,
-        "Kind": "Components.Component",
-        "Name": "BlazorStyled.StyledGoogleFont",
-        "AssemblyName": "BlazorStyled",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorStyled.StyledGoogleFont"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Priority",
-            "TypeName": "System.Int32?",
-            "Metadata": {
-              "Common.PropertyName": "Priority"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Name",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Name"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Styles",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Styles"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorStyled.StyledGoogleFont",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 840898608,
-        "Kind": "Components.Component",
-        "Name": "BlazorStyled._imports",
-        "AssemblyName": "BlazorStyled",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "_imports"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorStyled._imports"
-        }
-      },
-      {
-        "HashCode": -480932954,
-        "Kind": "Components.Component",
-        "Name": "BlazorStyled._imports",
-        "AssemblyName": "BlazorStyled",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorStyled._imports"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorStyled._imports",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -15662,6 +15576,87 @@
         }
       },
       {
+        "HashCode": -1032309156,
+        "Kind": "Components.Bind",
+        "Name": "BlazorStyled.Styled",
+        "AssemblyName": "BlazorStyled",
+        "Documentation": "Binds the provided expression to the 'Classname' property and a change event delegate to the 'ClassnameChanged' property of the component.",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Styled",
+            "Attributes": [
+              {
+                "Name": "@bind-Classname",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ]
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Bind",
+            "Name": "@bind-Classname",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "Documentation": "Binds the provided expression to the 'Classname' property and a change event delegate to the 'ClassnameChanged' property of the component.",
+            "Metadata": {
+              "Common.DirectiveAttribute": "True",
+              "Common.PropertyName": "Classname"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Components.IsSpecialKind": "Components.Bind",
+          "Components.Bind.ValueAttribute": "Classname",
+          "Components.Bind.ChangeAttribute": "ClassnameChanged",
+          "Common.TypeName": "BlazorStyled.Styled"
+        }
+      },
+      {
+        "HashCode": -1783529545,
+        "Kind": "Components.Bind",
+        "Name": "BlazorStyled.Styled",
+        "AssemblyName": "BlazorStyled",
+        "Documentation": "Binds the provided expression to the 'Classname' property and a change event delegate to the 'ClassnameChanged' property of the component.",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorStyled.Styled",
+            "Attributes": [
+              {
+                "Name": "@bind-Classname",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ]
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Bind",
+            "Name": "@bind-Classname",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "Documentation": "Binds the provided expression to the 'Classname' property and a change event delegate to the 'ClassnameChanged' property of the component.",
+            "Metadata": {
+              "Common.DirectiveAttribute": "True",
+              "Common.PropertyName": "Classname"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Components.IsSpecialKind": "Components.Bind",
+          "Components.Bind.ValueAttribute": "Classname",
+          "Components.Bind.ChangeAttribute": "ClassnameChanged",
+          "Common.TypeName": "BlazorStyled.Styled",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1217355928,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
@@ -16243,87 +16238,6 @@
         }
       },
       {
-        "HashCode": -1032309156,
-        "Kind": "Components.Bind",
-        "Name": "BlazorStyled.Styled",
-        "AssemblyName": "BlazorStyled",
-        "Documentation": "Binds the provided expression to the 'Classname' property and a change event delegate to the 'ClassnameChanged' property of the component.",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Styled",
-            "Attributes": [
-              {
-                "Name": "@bind-Classname",
-                "Metadata": {
-                  "Common.DirectiveAttribute": "True"
-                }
-              }
-            ]
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Bind",
-            "Name": "@bind-Classname",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
-            "Documentation": "Binds the provided expression to the 'Classname' property and a change event delegate to the 'ClassnameChanged' property of the component.",
-            "Metadata": {
-              "Common.DirectiveAttribute": "True",
-              "Common.PropertyName": "Classname"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Components.IsSpecialKind": "Components.Bind",
-          "Components.Bind.ValueAttribute": "Classname",
-          "Components.Bind.ChangeAttribute": "ClassnameChanged",
-          "Common.TypeName": "BlazorStyled.Styled"
-        }
-      },
-      {
-        "HashCode": -1783529545,
-        "Kind": "Components.Bind",
-        "Name": "BlazorStyled.Styled",
-        "AssemblyName": "BlazorStyled",
-        "Documentation": "Binds the provided expression to the 'Classname' property and a change event delegate to the 'ClassnameChanged' property of the component.",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorStyled.Styled",
-            "Attributes": [
-              {
-                "Name": "@bind-Classname",
-                "Metadata": {
-                  "Common.DirectiveAttribute": "True"
-                }
-              }
-            ]
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Bind",
-            "Name": "@bind-Classname",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
-            "Documentation": "Binds the provided expression to the 'Classname' property and a change event delegate to the 'ClassnameChanged' property of the component.",
-            "Metadata": {
-              "Common.DirectiveAttribute": "True",
-              "Common.PropertyName": "Classname"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Components.IsSpecialKind": "Components.Bind",
-          "Components.Bind.ValueAttribute": "Classname",
-          "Components.Bind.ChangeAttribute": "ClassnameChanged",
-          "Common.TypeName": "BlazorStyled.Styled",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1116576809,
         "Kind": "Components.Ref",
         "Name": "Ref",
@@ -16407,23 +16321,13 @@
   "RootNamespace": "Blazor_Visualizer",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Zach\\Desktop\\Projects\\Blazor-Visualizer\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Zach\\Desktop\\Projects\\Blazor-Visualizer\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "c:\\Users\\Zach\\Desktop\\Projects\\Blazor-Visualizer\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Zach\\Desktop\\Projects\\Blazor-Visualizer\\Pages\\BubbleSort.razor",
-      "TargetPath": "Pages\\BubbleSort.razor",
+      "FilePath": "c:\\Users\\Zach\\Desktop\\Projects\\Blazor-Visualizer\\Shared\\SortingComponent.razor",
+      "TargetPath": "Shared\\SortingComponent.razor",
       "FileKind": "component"
     },
     {
@@ -16432,23 +16336,13 @@
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "c:\\Users\\Zach\\Desktop\\Projects\\Blazor-Visualizer\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Zach\\Desktop\\Projects\\Blazor-Visualizer\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Zach\\Desktop\\Projects\\Blazor-Visualizer\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "c:\\Users\\Zach\\Desktop\\Projects\\Blazor-Visualizer\\App.razor",
       "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Zach\\Desktop\\Projects\\Blazor-Visualizer\\Shared\\NavBar.razor",
+      "TargetPath": "Shared\\NavBar.razor",
       "FileKind": "component"
     },
     {

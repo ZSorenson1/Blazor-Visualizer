@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BN/vNbAzwuQvRPfNFLSb0PUgwL48ZslP1sMFy1VRCoB7v+bxNrMulacZUEK6ERg0daq0DM7FcOLU+qGYwMajOw==",
+  "dgSpecHash": "Xe+mSgY5W/2l2hELsPbJJla89WvTaP3PCF9o+noXH1UJGnjrwspmZ4J0/CbFChzTZXNhShZtMRL/0a+dt0KiKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zach\\Desktop\\Projects\\Blazor-Visualizer\\Blazor-Visualizer.csproj",
+  "projectFilePath": "C:\\Users\\Zach\\Desktop\\Projects\\Blazor-Visualizer\\Blazor_Visualizer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zach\\.nuget\\packages\\blazorstyled\\3.1.0\\blazorstyled.3.1.0.nupkg.sha512",
     "C:\\Users\\Zach\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.0\\microsoft.aspnetcore.authorization.5.0.0.nupkg.sha512",

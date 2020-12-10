@@ -9,8 +9,8 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Blazor_Visualizer.Data;
 using BlazorStyled;
+using Blazor_Visualizer.Shared;
 
 namespace Blazor_Visualizer
 {
@@ -30,7 +30,8 @@ namespace Blazor_Visualizer
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddBlazorStyled();
-            services.AddSingleton<WeatherForecastService>();
+            services.AddScoped<SortingComponentBase>();
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
